@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning more advanced JS while working on my latest project, a serverless and self-updating wiki!
 - 💞️ I’m looking to collaborate on anything web development, and I especially love working with JS
 - 📫 How to reach me ...
--Web: finnsoftware.net OR finniky.tk
--Gmail: flancast90@gmail.com
+- Web: finnsoftware.net OR finniky.tk
+- Gmail: flancast90@gmail.com
