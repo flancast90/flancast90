@@ -6,4 +6,4 @@
 -   Web: finnsoftware.net
 -   Gmail: flancast90@gmail.com
 
-AND FOR ALL THOSE WONDERING: It's not a decision, it's a life-choice. https://github.com/Droogans/unmaintainable-code
+My illegible code is a life-choice (find out why): https://github.com/Droogans/unmaintainable-code
