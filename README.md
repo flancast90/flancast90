@@ -6,4 +6,4 @@
 -   Web: finnsoftware.net
 -   Gmail: flancast90@gmail.com
 
-[![https://github-readme-stats.vercel.app/api?username=flancast90&count_private=true&show_icons=true&theme=gotham]]
+[!["https://github-readme-stats.vercel.app/api?username=flancast90&count_private=true&show_icons=true&theme=gotham"]]
