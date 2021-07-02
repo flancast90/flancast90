@@ -1,8 +1,7 @@
 ## Hi There, I'm [Finn Lancaster](https://www.finnsoftware.net) 👋
   
   
-## Glad to see you here!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=flancast90.visitor-badge)
+## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=flancast90.visitor-badge)
 
 
 ## 📈 My GitHub Stats:
