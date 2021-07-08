@@ -28,5 +28,5 @@ As a current High School student, I work just as hard at programming as I do in 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flancast90&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flancast90&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flancast90&" alt="flancast90" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flancast90&theme=gotham" alt="flancast90" />
 </p>
