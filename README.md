@@ -1,4 +1,4 @@
-<img align="center" src="https://rishavanand.github.io/static/images/greetings.gif"/>
+<img align="center" height="180em" src="https://rishavanand.github.io/static/images/greetings.gif"/>
 
 
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Finn Lancaster</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
