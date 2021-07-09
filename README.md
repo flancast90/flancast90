@@ -2,6 +2,10 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.finnsoftware.net)
 
+### Recent Listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ilancaste&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ilancaste&redirect=true)
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=flancast90.flancast90)
 
 I am a Programming Geek and Open-Source Enthusiast in FL󠁵󠁳󠁦󠁬󠁿, USA 🇺🇸. I love working with Python, JavaScript, HTML and CSS, with which I build creative solutions to everyday problems.
