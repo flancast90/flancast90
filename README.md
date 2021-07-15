@@ -28,7 +28,7 @@ As a current High School student, I work just as hard at programming as I do in 
 </br>
 
 **Contribution Skyline**
-<iframe src="https://skyline.github.com/flancast90/2021"></iframe>
+[![Contribution Skyline](https://inspiring-lumiere-53093e.netlify.app/?username=flancast90&year=2021)
 
 <br />
 
