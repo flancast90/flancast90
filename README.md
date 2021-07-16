@@ -2,19 +2,9 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.finnsoftware.net)
 
-### Recent Listening 🤠 and Actions 🏁
+### Recent Listening 🤠
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ilancaste&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ilancaste&redirect=true)
-
-<br />
-
-``
-⬆️ Pushed 1 commit to flancast90/flancast90
-⬆️ Pushed 1 commit to flancast90/flancast90
-⬆️ Pushed 1 commit to flancast90/flancast90
-⬆️ Pushed 1 commit to flancast90/flancast90
-⬆️ Pushed 1 commit to flancast90/flancast90
-``
 
 
 ### 🧑‍🤝‍🧑🧑‍🤝‍🧑 Glad to see you here! 🧑‍🤝‍🧑🧑‍🤝‍🧑 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=flancast90.flancast90)
@@ -40,12 +30,5 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flancast90&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flancast90&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flancast90&theme=gotham" alt="flancast90" />
-</p>
 
-<br />
-
-<p align="center">Last refresh: <b>Friday, July 16th 2021, 9:50:51 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<!--START_CONTRIBUTIONS:readme-info--><!--END_CONTRIBUTIONS:readme-info--><!--START_SECTION_DAILY_COMMIT:readme-info--><!--END_SECTION_DAILY_COMMIT:readme-info--><!--START_SECTION_WEEKLY_COMMIT:readme-info--><!--END_SECTION_WEEKLY_COMMIT:readme-info--><!--START_SECTION_LANGUAGE:readme-info--><!--END_SECTION_LANGUAGE:readme-info-->
