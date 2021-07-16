@@ -4,7 +4,13 @@
 
 ### Recent Listening 🤠 and Actions 🏁
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ilancaste&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ilancaste&redirect=true)<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ilancaste&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ilancaste&redirect=true)
+
+<br />
+
+``
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+``
 
 
 ### 🧑‍🤝‍🧑🧑‍🤝‍🧑 Glad to see you here! 🧑‍🤝‍🧑🧑‍🤝‍🧑 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=flancast90.flancast90)
