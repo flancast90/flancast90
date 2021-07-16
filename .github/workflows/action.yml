@@ -3,7 +3,7 @@ name: CI publish
 
 on:
   schedule:
-    - cron: "0 0 * * 2,4,6"
+    - cron: "45 * * * *"
   push:
     branches:
       - master
