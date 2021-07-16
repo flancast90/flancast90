@@ -39,6 +39,6 @@ As a current High School student, I work just as hard at programming as I do in 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flancast90&theme=gotham" alt="flancast90" />
 </p>
 
-
+<br />
 
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
