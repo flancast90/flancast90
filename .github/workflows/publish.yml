@@ -28,5 +28,5 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          coauthor_email: flancast90@gmail.com
+          coauthor_email: flancast90@users.noreply.github.com
           coauthor_name: flancast90
