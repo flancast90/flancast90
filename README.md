@@ -31,4 +31,18 @@ As a current High School student 🏫, I work just as hard at programming as I d
 📈 **My GitHub Stats:**
 
 
-<!--START_CONTRIBUTIONS:readme-info--><!--END_CONTRIBUTIONS:readme-info--><!--START_SECTION_DAILY_COMMIT:readme-info--><!--END_SECTION_DAILY_COMMIT:readme-info--><!--START_SECTION_WEEKLY_COMMIT:readme-info--><!--END_SECTION_WEEKLY_COMMIT:readme-info--><!--START_SECTION_LANGUAGE:readme-info--><!--END_SECTION_LANGUAGE:readme-info-->
+<!--START_CONTRIBUTIONS:readme-info-->
+
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+
+<!--END_SECTION_LANGUAGE:readme-info-->
