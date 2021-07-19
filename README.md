@@ -46,3 +46,5 @@ As a current High School student 🏫, I work just as hard at programming as I d
 <!--START_SECTION_LANGUAGE:readme-info-->
 
 <!--END_SECTION_LANGUAGE:readme-info-->
+
+> This README is auto-updated by [this](https://github.com/th3c0d3br34ker/github-readme-info) GitHub Action.
