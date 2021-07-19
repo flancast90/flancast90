@@ -43,8 +43,8 @@ As a current High School student 🏫, I work just as hard at programming as I d
 | | | | |
 | --- | --- | --- | --- |
 |🌞 Morning                |18 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.0%|
-|🌆 Daytime                |44 commits          |![](https://via.placeholder.com/176x22/000000/000000?text=+)![](https://via.placeholder.com/224x22/b8b8b8/b8b8b8?=text=+)|44.0%|
-|🌃 Evening                |20 commits          |![](https://via.placeholder.com/80x22/000000/000000?text=+)![](https://via.placeholder.com/320x22/b8b8b8/b8b8b8?=text=+)|20.0%|
+|🌆 Daytime                |45 commits          |![](https://via.placeholder.com/180x22/000000/000000?text=+)![](https://via.placeholder.com/220x22/b8b8b8/b8b8b8?=text=+)|45.0%|
+|🌃 Evening                |19 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|19.0%|
 |🌙 Night                  |18 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.0%|
 | | | | |
 
@@ -55,10 +55,10 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |21 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.0%|
+|Monday                   |22 commits          |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.0%|
 |Tuesday                  |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
 |Wednesday                |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
-|Thursday                 |3 commits           |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.0%|
+|Thursday                 |2 commits           |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|2.0%|
 |Friday                   |30 commits          |![](https://via.placeholder.com/120x22/000000/000000?text=+)![](https://via.placeholder.com/280x22/b8b8b8/b8b8b8?=text=+)|30.0%|
 |Saturday                 |23 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.0%|
 |Sunday                   |23 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.0%|
@@ -71,10 +71,10 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|JavaScript               |6 repos|             ![](https://via.placeholder.com/132x22/000000/000000?text=+)![](https://via.placeholder.com/268x22/b8b8b8/b8b8b8?=text=+)|33.33%|
-|HTML                     |4 repos|             ![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.22%|
-|Java                     |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
+|Python                   |7 repos|             ![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.84%|
+|JavaScript               |6 repos|             ![](https://via.placeholder.com/128x22/000000/000000?text=+)![](https://via.placeholder.com/272x22/b8b8b8/b8b8b8?=text=+)|31.58%|
+|HTML                     |4 repos|             ![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.05%|
+|Java                     |2 repos|             ![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.53%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
