@@ -16,8 +16,8 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 **Personal Info:**
 
-- 👨🏻‍💻 I’m currently building with Python and Js;
-- 🚀 I’m learning the Python libraries of [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/), [WebBrowser](https://docs.python.org/3/library/webbrowser.html), and [Selenium](https://selenium-python.readthedocs.io/);
+- 👨🏻‍💻 I’m currently building iOS/Android with [Flutter](https://www.flutter.dev);
+- 🚀 I’m learning [Dart](https://www.dart.dev) so that I can create aesthetically-pleasing mobile applications;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: flancast90@gmail.com;
 - 📝 [Resume](https://www.finnsoftware.net).
