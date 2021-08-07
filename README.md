@@ -1,4 +1,4 @@
-<img src="https://typograssy.vercel.app/api?text=Hello%20Visitor!&l0=3d3d3d&bg=3d3d3d&comment=" align="center" width="100%"/>
+<img src="https://typograssy.vercel.app/api?text=Hello%20Visitor!&l0=0d1117&bg=0d1117&comment=" align="center" width="100%"/>
 
 <br />
 
