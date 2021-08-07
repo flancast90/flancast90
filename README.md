@@ -1,4 +1,4 @@
-![Hello Message for Visitors!](https://typograssy.vercel.app/api?text=Hello%20Visitor!&l0=3d3d3d&bg=3d3d3d&comment=)
+<img src="https://typograssy.vercel.app/api?text=Hello%20Visitor!&l0=3d3d3d&bg=3d3d3d&comment=" align="center" width="100%"/>
 --------------------------------------------------------------------------------------------------------------------
 
 <br />
@@ -6,6 +6,9 @@
 ### Hi there, I'm <a href="https://finnsoftware.net" target="_blank">Finn Lancaster</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.finnsoftware.net)
+---------------------------------------------------------------------------------------------------------------------
+
+<br />
 
 ### Recent Listening 🤠
 
