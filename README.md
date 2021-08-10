@@ -1,6 +1,6 @@
 # Hi there, I'm <a href="https://finnsoftware.net" target="_blank">Finn Lancaster</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.finnsoftware.net)![](https://visitor-badge.glitch.me/badge?page_id=flancast90.flancast90)
+<a href="https://www.finnsoftware.net"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" align="left"/></a>![](https://visitor-badge.glitch.me/badge?page_id=flancast90.flancast90)
 
 <br />
 
