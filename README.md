@@ -57,10 +57,8 @@ As a current High School student 🏫, I work just as hard at programming as I d
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
 <br />
-
-📈 **My GitHub Stats:**
-
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My 💖 languages Python** 
