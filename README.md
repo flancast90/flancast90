@@ -75,4 +75,24 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 <br />
 
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flancast90&hide_border=true&theme=gotham" />
+</details>
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Linux Mint 20 Cinnamon</li>
+	    <li><b>Laptop: </b> Lenovo Ideapad 3 (i5)</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> Linux Terminal (bash)</li>
+	    <li><b>Code Editor:</b> Xed: I'm all Linux!, Eclipse (for java)</li>
+	    <li><b>To Stay Updated:</b>Medium, MuseScore and Reddit.</li>
+	    <br />
+	</ul>	
+</details>
+
 > This README is auto-updated by [this](https://github.com/th3c0d3br34ker/github-readme-info) GitHub Action.
