@@ -22,6 +22,14 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 <br />
 
+<!--START_CONTRIBUTIONS:readme-info-->
+**🏆 1,107 Contributions in year 2021**
+
+
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<br />
+
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm an early 🐤** 
 
@@ -53,12 +61,6 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 📈 **My GitHub Stats:**
 
-
-<!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,107 Contributions in year 2021**
-
-
-<!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 **My 💖 languages Python** 
