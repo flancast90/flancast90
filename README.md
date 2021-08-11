@@ -14,8 +14,8 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 **Personal Info:**
 
-- 👨🏻‍💻 I’m currently building iOS/Android with [Flutter](https://www.flutter.dev);
-- 🚀 I’m learning [Dart](https://www.dart.dev) so that I can create aesthetically-pleasing mobile applications;
+- 👨🏻‍💻 I’m currently collaborating to make TiddlyWiki Plugins using JavaScript and <a href="https://tiddlywiki.com">TiddlyWiki</a> Markup!
+- 🚀 I’m learning [React-Native](https://reactnative.dev/) so that I can create aesthetically-pleasing mobile applications;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: flancast90@gmail.com;
 - 📝 [Resume](https://www.finnsoftware.net).
