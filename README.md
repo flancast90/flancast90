@@ -37,8 +37,8 @@ As a current High School student 🏫, I work just as hard at programming as I d
 | --- | --- | --- | --- |
 |🌞 Morning                |18 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.0%|
 |🌆 Daytime                |18 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.0%|
-|🌃 Evening                |43 commits          |![](https://via.placeholder.com/172x22/000000/000000?text=+)![](https://via.placeholder.com/228x22/b8b8b8/b8b8b8?=text=+)|43.0%|
-|🌙 Night                  |21 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.0%|
+|🌃 Evening                |42 commits          |![](https://via.placeholder.com/168x22/000000/000000?text=+)![](https://via.placeholder.com/232x22/b8b8b8/b8b8b8?=text=+)|42.0%|
+|🌙 Night                  |22 commits          |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.0%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -47,11 +47,11 @@ As a current High School student 🏫, I work just as hard at programming as I d
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |5 commits           |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.0%|
+|Monday                   |4 commits           |![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|4.0%|
 |Tuesday                  |42 commits          |![](https://via.placeholder.com/168x22/000000/000000?text=+)![](https://via.placeholder.com/232x22/b8b8b8/b8b8b8?=text=+)|42.0%|
 |Wednesday                |27 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|27.0%|
 |Thursday                 |23 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.0%|
-|Friday                   |3 commits           |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.0%|
+|Friday                   |4 commits           |![](https://via.placeholder.com/16x22/000000/000000?text=+)![](https://via.placeholder.com/384x22/b8b8b8/b8b8b8?=text=+)|4.0%|
 |Saturday                 |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
 |Sunday                   |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
 | | | | |
