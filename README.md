@@ -9,7 +9,13 @@
 
 I am a Programming Geek 🖥️ and Open-Source Enthusiast in FL󠁵󠁳󠁦󠁬󠁿, USA 🇺🇸. I love working with Python, JavaScript, HTML and CSS, with which I build creative solutions to everyday problems.
 
-As a current High School student 🏫, I work just as hard at programming as I do in school, and hope to carry the same dedication throughout my life with software that changes the world and revolutionizes problem-solving. 
+As a current High School student 🏫, I work just as hard at programming as I do in school, and hope to carry the same dedication throughout my life with software that changes the world and revolutionizes problem-solving.
+
+Oh, and I forgot to mention, I also love to play the piano, and count myself as a hobbyist composer! I just publicly released my first piano score, a remake of Amazing Grace. You can find it, and any other music I make, [here](https://musescore.com/flancast90/). I would love for you to tell me what you think of my piano music and programming, either via an email to ``flancast90 at gmail dot com``, with a star, or with a [like on MuseScore](https://musescore.com/flancast90/)! Thank you for your support!
+
+
+<object data="https://musescore.com/user/35848526/scores/6907224/embed" width="100%" style="height:50em">
+</object>
 
 
 **Personal Info:**
