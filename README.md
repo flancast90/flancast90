@@ -87,7 +87,7 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flancast90&hide_border=true&theme=gotham" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flancast90&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flancast90&theme=gotham&hide_border" />
 </details>
 <details>	
   <br />
