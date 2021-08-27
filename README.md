@@ -14,7 +14,7 @@ As a current High School student 🏫, I work just as hard at programming as I d
 Oh, and I forgot to mention, I also love to play the piano, and count myself as a hobbyist composer! I just publicly released my first piano score, a remake of Amazing Grace. You can find it, and any other music I make, [here](https://musescore.com/flancast90/). I would love for you to tell me what you think of my piano music and programming, either via an email to ``flancast90 at gmail dot com``, with a star, or with a [like on MuseScore](https://musescore.com/flancast90/)! Thank you for your support!
 
 
-<a href="https://chrome.google.com/webstore/detail/gitmbed/cbfjhpckapddemlmidlmgoepochhfpfi"><img width="100%" src="https://flancast90.github.io/gitmBed/button_gitmbed.png" alt="gitmbed=https://musescore.com/user/35848526/scores/6907224/embed,100%,500px"/></a>
+<a href="https://chrome.google.com/webstore/detail/gitmbed/cbfjhpckapddemlmidlmgoepochhfpfi"><img width="100%" src="https://gitmbed.finnsoftware.net/assets/img/button_gitmbed.png" alt="gitmbed=https://musescore.com/user/35848526/scores/6907224/embed,100%,500px"/></a>
 
 
 **Personal Info:**
