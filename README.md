@@ -28,7 +28,7 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 <br />
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,737 Contributions in year 2021**
+**🏆 1,739 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -54,11 +54,11 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 | --- | --- | --- | --- |
 |Monday                   |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
 |Tuesday                  |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
-|Wednesday                |22 commits          |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.0%|
+|Wednesday                |21 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.0%|
 |Thursday                 |26 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|26.0%|
 |Friday                   |27 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|27.0%|
 |Saturday                 |23 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.0%|
-|Sunday                   |2 commits           |![](https://via.placeholder.com/8x22/000000/000000?text=+)![](https://via.placeholder.com/392x22/b8b8b8/b8b8b8?=text=+)|2.0%|
+|Sunday                   |3 commits           |![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.0%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
