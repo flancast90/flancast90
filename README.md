@@ -28,22 +28,56 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 <br />
 
 <!--START_CONTRIBUTIONS:readme-info-->
+**🏆 1,888 Contributions in year 2021**
+
 
 <!--END_CONTRIBUTIONS:readme-info-->
 
 <br />
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
+**I'm an early 🐤** 
+
+| | | | |
+| --- | --- | --- | --- |
+|🌞 Morning                |27 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|25.71%|
+|🌆 Daytime                |29 commits          |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.62%|
+|🌃 Evening                |23 commits          |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|21.9%|
+|🌙 Night                  |26 commits          |![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|24.76%|
+| | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+📅 **I'm Most Productive on Wednesdays** 
+
+| | | | |
+| --- | --- | --- | --- |
+|Monday                   |17 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.0%|
+|Tuesday                  |23 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.0%|
+|Wednesday                |24 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.0%|
+|Thursday                 |24 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.0%|
+|Friday                   |12 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.0%|
+|Saturday                 |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+|Sunday                   |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+| | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <br />
 
 <!--START_SECTION_LANGUAGE:readme-info-->
+**My 💖 languages Python** 
+
+| | | | |
+| --- | --- | --- | --- |
+|Python                   |11 repos|            ![](https://via.placeholder.com/140x22/000000/000000?text=+)![](https://via.placeholder.com/260x22/b8b8b8/b8b8b8?=text=+)|35.48%|
+|JavaScript               |9 repos|             ![](https://via.placeholder.com/116x22/000000/000000?text=+)![](https://via.placeholder.com/284x22/b8b8b8/b8b8b8?=text=+)|29.03%|
+|HTML                     |7 repos|             ![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|22.58%|
+|Java                     |2 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|6.45%|
+|CSS                      |1 repos|             ![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.23%|
+|TeX                      |1 repos|             ![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|3.23%|
+| | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 
