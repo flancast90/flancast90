@@ -19,8 +19,8 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 
 **Personal Info:**
 
-- 👨🏻‍💻 I’m currently collaborating to make TiddlyWiki Plugins using JavaScript and <a href="https://tiddlywiki.com">TiddlyWiki</a> Markup!
-- 🚀 I’m learning [React-Native](https://reactnative.dev/) so that I can create aesthetically-pleasing mobile applications;
+- 👨🏻‍💻 I’m working on the mobile version of the <a href="https://glar.io">glar.io</a> game!
+- 🚀 I’m learning discord.py while I continue to update <a href="https://github.com/flancast90/boombox">my popular discord bot</a>;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: flancast90@gmail.com;
 - 📝 [Resume](https://www.finnsoftware.net).
