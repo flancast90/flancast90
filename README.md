@@ -94,11 +94,11 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Linux Mint 20 Cinnamon</li>
+  	    <li><b>OS:</b> Kali Linux 2.0</li>
 	    <li><b>Laptop: </b> Lenovo Ideapad 3 (i5)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> Linux Terminal (bash)</li>
-	    <li><b>Code Editor:</b> Xed: I'm all Linux!, Eclipse (for java)</li>
+	    <li><b>Code Editor:</b> Mousepad: I'm all Linux!, rarely Vim</li>
 	    <li><b>To Stay Updated:</b>Medium, MuseScore and Reddit.</li>
 	    <br />
 	</ul>	
