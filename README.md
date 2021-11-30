@@ -28,7 +28,7 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 <br />
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 3,288 Contributions in year 2021**
+**🏆 3,289 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -40,24 +40,24 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |28 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|25.69%|
+|🌞 Morning                |29 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.61%|
 |🌆 Daytime                |29 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.61%|
 |🌃 Evening                |24 commits          |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.02%|
-|🌙 Night                  |28 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|25.69%|
+|🌙 Night                  |27 commits          |![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|24.77%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Mondays** 
 
 | | | | |
 | --- | --- | --- | --- |
 |Monday                   |24 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.08%|
-|Tuesday                  |9 commits           |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|8.65%|
+|Tuesday                  |10 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.62%|
 |Wednesday                |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
 |Thursday                 |1 commits           |![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|0.96%|
-|Friday                   |25 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.04%|
+|Friday                   |24 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.08%|
 |Saturday                 |22 commits          |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|21.15%|
 |Sunday                   |23 commits          |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.12%|
 | | | | |
