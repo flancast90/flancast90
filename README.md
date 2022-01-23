@@ -28,7 +28,7 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 <br />
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 495 Contributions in year 2022**
+**🏆 494 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
