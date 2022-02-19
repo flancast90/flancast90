@@ -57,8 +57,8 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 |Tuesday                  |10 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.62%|
 |Wednesday                |10 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.62%|
 |Thursday                 |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.38%|
-|Friday                   |30 commits          |![](https://via.placeholder.com/116x22/000000/000000?text=+)![](https://via.placeholder.com/284x22/b8b8b8/b8b8b8?=text=+)|28.85%|
-|Saturday                 |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.38%|
+|Friday                   |29 commits          |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.88%|
+|Saturday                 |17 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.35%|
 |Sunday                   |10 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.62%|
 | | | | |
 
