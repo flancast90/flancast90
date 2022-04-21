@@ -28,7 +28,7 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 <br />
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,836 Contributions in year 2022**
+**🏆 1,837 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -55,8 +55,8 @@ Oh, and I forgot to mention, I also love to play the piano, and count myself as 
 | --- | --- | --- | --- |
 |Monday                   |11 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.58%|
 |Tuesday                  |13 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.5%|
-|Wednesday                |16 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.38%|
-|Thursday                 |23 commits          |![](https://via.placeholder.com/88x22/000000/000000?text=+)![](https://via.placeholder.com/312x22/b8b8b8/b8b8b8?=text=+)|22.12%|
+|Wednesday                |15 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.42%|
+|Thursday                 |24 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|23.08%|
 |Friday                   |15 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.42%|
 |Saturday                 |12 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.54%|
 |Sunday                   |14 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.46%|
