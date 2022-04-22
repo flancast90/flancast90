@@ -4,6 +4,7 @@
    "name": "Finn Lancaster",
    "employed": {
       "status": true,
+      "type": "startup",
       "homepage": "https://finned.tech"
    },
    "alias": "flancast90",
