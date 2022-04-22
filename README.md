@@ -1,14 +1,14 @@
 ``Editing **Profile.json**``
 ```json
 {
-   name: "Finn Lancaster",
-   employed: {
-      status: true,
-      homepage: "https://finned.tech"
-   }
-   alias: "flancast90",
-   homepage: "https://finned.tech",
-   skills: [
+   "name": "Finn Lancaster",
+   "employed": {
+      "status": true,
+      "homepage": "https://finned.tech"
+   },
+   "alias": "flancast90",
+   "homepage": "https://finned.tech",
+   "skills": [
       "Frontend/Backend WebDev",
       "Cybersecurity",
       "AI/Machine Learning"
