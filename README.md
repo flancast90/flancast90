@@ -8,7 +8,7 @@
       "homepage": "https://finned.tech"
    },
    "alias": "flancast90",
-   "homepage": "https://finned.tech",
+   "homepage": "https://finnsoftware.net",
    "skills": [
       "Frontend/Backend WebDev",
       "Cybersecurity",
