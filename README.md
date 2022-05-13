@@ -20,7 +20,7 @@
 Hey! I'm Finn Lancaster, a student, game dev, security researcher, and AI-Enthusiast based in Florida. I'm a huge geek for anything computer-related, and love building new and innovative projects using JavaScript and Python. My latest project is [Finned](https://finned.tech), an AI startup focused on adding cutting-edge AI to digital signage applications. I'd love to hear from you; Here's some ways to get in contact!
 
 [![Gmail Badge](https://img.shields.io/badge/-flancast90@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:flancast90@gmail.com)](mailto:flancast90@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/BLUND3R%230088-%2320232a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/821777475587276802)
+[![Discord Badge](https://img.shields.io/badge/flancast90%230088-%2320232a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/821777475587276802)
 
 
 # 🛠 &nbsp;Tech Stack
