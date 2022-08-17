@@ -45,8 +45,8 @@
 
 <p align="center">
 <a href="https://github.com/flancast90">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flancast90&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flancast90&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flancast90&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flancast90&layout=compact&theme=github_dark&langs_count=8&show_icons=true&border=false&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
