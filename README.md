@@ -24,25 +24,23 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)&nbsp;
-![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg)&nbsp;
-![Tensorflow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg)&nbsp;
-![Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)&nbsp;
-![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)&nbsp;
-![RaspberryPi](https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg)&nbsp;
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)&nbsp;
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)&nbsp;
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)&nbsp;
-![Typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)&nbsp;
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)&nbsp;
-![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg)&nbsp;
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)&nbsp;
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)&nbsp;
-![TailwindCSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)&nbsp;
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)&nbsp;
-![Markdown](https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg)\
-![Visual Studio Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)&nbsp;\
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" width="50" height="50" alt="PyTorch">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="50" height="50" alt="Tensorflow">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50" alt="Selenium">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="50" alt="JavaScript">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50" height="50" alt="Typescript">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50" height="50" alt="Rust">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="TailwindCSS">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" height="50" alt="Markdown"><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code">&nbsp;<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux">&nbsp;
 
 ## ⚙️ &nbsp;GitHub Stats
 
