@@ -56,8 +56,8 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.finnsoftware.net"><img src="https://img.shields.io/badge/-finnsoftware.net-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/finn-lancaster-a21671219"><img src="https://img.shields.io/badge/-Finn%20Lancaster-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:finn.lancaster@finnsoftware.net"><img src="https://img.shields.io/badge/-finn.lancaster@finnsoftware.net-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://discord.com/users/821777475587276802"><img src="https://img.shields.io/badge/-@flancast90-E4405F?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/finn-lancaster-a21671219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="finn-lancaster" width="50" /></a>
+<a href="https://codepen.io/flancast"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="50" /></a>
+<a href="https://discord.com/users/821777475587276802"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="50"/></a>
+<a href="https://stackoverflow.com/users/12356427/flancast90"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="50"/></a>
 </p>
