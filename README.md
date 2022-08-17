@@ -2,11 +2,6 @@
 ```json
 {
    "name": "Finn Lancaster",
-   "employed": {
-      "status": true,
-      "type": "startup",
-      "homepage": "https://finned.tech"
-   },
    "alias": "flancast90",
    "homepage": "https://finnsoftware.net",
    "skills": [
@@ -16,24 +11,50 @@
    ]
 }
 ```
-# Finn Lancaster (flancast90)
-Hey! I'm Finn Lancaster, a student, game dev, security researcher, and AI-Enthusiast based in Florida. I'm a huge geek for anything computer-related, and love building new and innovative projects using JavaScript and Python. My latest project is [Finned](https://finned.tech), an AI startup focused on adding cutting-edge AI to digital signage applications. I'd love to hear from you; Here's some ways to get in contact!
+<img alt="Hand Waving" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! I'm flancast90</h1>
+## 👨🏻‍💻 &nbsp;About Me
 
-[![Gmail Badge](https://img.shields.io/badge/-flancast90@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:flancast90@gmail.com)](mailto:flancast90@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/flancast90%230088-%2320232a?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/821777475587276802)
+💡 &nbsp;I'm a student, game dev, security researcher, and AI-Enthusiast based in Florida.\
+🎓 &nbsp;I plan to major in computer science with a minor in either data science or philosophy (not sure yet :D).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I enjoy playing around with Python, JavaScript, and more recently, Rust.\
+💬 &nbsp;Feel free to reach out to me to say hi, or just for some discussion.\
+✉️ &nbsp;You can shoot me an email at finn.lancaster@finnsoftware.net! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.finnsoftware.net) for more details about me. I'm open to feedback and suggestions!
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/flancast90/flancast90/master/assets/Night-Coding.gif" align="right"/>
 
-# 🛠 &nbsp;Tech Stack
-Here are the tools I work with! Take a look :) 
+### 🛠 &nbsp;Tech Stack
 
-**Software**
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-![Windows 11](https://img.shields.io/badge/windows%2011-%2320232a?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-%2320232a?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚙️ &nbsp;GitHub Analytics
 
-**Stacks**
+<p align="center">
+<a href="https://github.com/flancast90">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flancast90&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flancast90&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=white)
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.finnsoftware.net"><img src="https://img.shields.io/badge/-finnsoftware.net-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/finn-lancaster-a21671219"><img src="https://img.shields.io/badge/-Finn%20Lancaster-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:finn.lancaster@finnsoftware.net"><img src="https://img.shields.io/badge/-finn.lancaster@finnsoftware.net-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://discord.com/users/821777475587276802"><img src="https://img.shields.io/badge/-@flancast90-E4405F?style=flat&logo=Discord&logoColor=white"/></a>
+</p>
