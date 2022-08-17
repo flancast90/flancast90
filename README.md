@@ -56,7 +56,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/finn-lancaster-a21671219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="finn-lancaster" height="50" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/finn-lancaster-a21671219" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="finn-lancaster" height="50" /></a>&nbsp;
 <a href="https://codepen.io/flancast"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="50" /></a>&nbsp;
 <a href="https://discord.com/users/821777475587276802"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="50"/></a>&nbsp;
 <a href="https://stackoverflow.com/users/12356427/flancast90"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="50"/></a>
