@@ -12,34 +12,37 @@
 }
 ```
 # 👋 &nbsp;Hey there! I'm flancast90
-## 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I'm a student, game dev, security researcher, and AI-Enthusiast based in Florida.\
-🎓 &nbsp;I plan to major in computer science with a minor in either data science or philosophy (not sure yet :D).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I enjoy playing around with Python, JavaScript, and more recently, Rust.\
-💬 &nbsp;Feel free to reach out to me to say hi, or just for some discussion.\
-✉️ &nbsp;You can shoot me an email at finn.lancaster@finnsoftware.net! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.finnsoftware.net) for more details about me. I'm open to feedback and suggestions!
+-💡 &nbsp;I'm a student, game dev, security researcher, and AI-Enthusiast based in Florida.\
+-🎓 &nbsp;I plan to major in computer science with a minor in either data science or philosophy (not sure yet :D).\
+-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+-✍️ &nbsp;In my free time, I enjoy playing around with Python, JavaScript, and more recently, Rust.\
+-💬 &nbsp;Feel free to reach out to me to say hi, or just for some discussion.\
+-✉️ &nbsp;You can shoot me an email at finn.lancaster@finnsoftware.net! I'll try to respond as soon as I can.\
+-📄 &nbsp;Please have a look at my [Résumé](https://www.finnsoftware.net) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/flancast90/flancast90/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)&nbsp;
+![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg)&nbsp;
+![Tensorflow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg)&nbsp;
+![Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)&nbsp;
+![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)&nbsp;
+![RaspberryPi](https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg)&nbsp;
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)&nbsp;
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)&nbsp;
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)&nbsp;
+![Typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)&nbsp;
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)&nbsp;
+![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg)&nbsp;
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)&nbsp;
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)&nbsp;
+![TailwindCSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)&nbsp;
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)&nbsp;
+![Markdown](https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg)\
+![Visual Studio Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)&nbsp;\
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Stats
 
