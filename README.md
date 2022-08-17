@@ -20,10 +20,9 @@
 -✉️ &nbsp;You can shoot me an email at finn.lancaster@finnsoftware.net! I'll try to respond as soon as I can.\
 -📄 &nbsp;Please have a look at my [Résumé](https://www.finnsoftware.net) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/flancast90/flancast90/master/assets/Night-Coding.gif" align="right"/>
-
 ## 🛠 &nbsp;Tech Stack
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="Tensorflow">&nbsp;
@@ -41,6 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="TailwindCSS">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="50" height="50" alt="Markdown"><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code">&nbsp;<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux">&nbsp;
+</p>
 
 ## ⚙️ &nbsp;GitHub Stats
 
