@@ -11,7 +11,7 @@
    ]
 }
 ```
-<img alt="Hand Waving" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! I'm flancast90</h1>
+# 👋 &nbsp;Hey there! I'm flancast90
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a student, game dev, security researcher, and AI-Enthusiast based in Florida.\
