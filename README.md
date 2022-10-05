@@ -4,6 +4,14 @@
    "name": "Finn Lancaster",
    "alias": "flancast90",
    "homepage": "https://finnsoftware.net",
+   "employment": {
+      "Publix Supermarkets": {
+         "I/S Analytics (Digital Product Team)": {
+            "current": true,
+            "start": "2022/09"
+         }
+      }
+   },
    "skills": [
       "Frontend/Backend WebDev",
       "Cybersecurity",
