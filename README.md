@@ -1,26 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
-``Editing **Profile.json**``
-```json
-{
-   "name": "Finn Lancaster",
-   "alias": "flancast90",
-   "homepage": "https://finnsoftware.net",
-   "employment": {
-      "Publix Supermarkets": {
-         "I/S Analytics (Digital Product Team)": {
-            "current": true,
-            "start": "2022/09"
-         }
-      }
-   },
-   "skills": [
-      "Frontend/Backend WebDev",
-      "Cybersecurity",
-      "AI/Machine Learning"
-   ]
-}
-```
 # 👋 &nbsp;Hey there! I'm flancast90
 * 💡 &nbsp;I'm a student, game dev, security researcher, and AI-Enthusiast based in Florida.
 * 🎓 &nbsp;I plan to major in computer science with a minor in either data science or philosophy (not sure yet :D).
