@@ -1,11 +1,10 @@
 # 👋 &nbsp;Hey there! I'm flancast90
-* 💡 &nbsp;I'm a student, game dev, security researcher, and AI-Enthusiast based in Florida.
-* 🎓 &nbsp;I plan to major in computer science with a minor in either data science or philosophy (not sure yet :D).
+* 💡 &nbsp;I'm a student, programmer, and style myself an armchair philosopher.
+* 🎓 &nbsp;I'm majoring in Computer Science at the University of Florida, with focuses on AI and Philosophy.
 * 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-* ✍️ &nbsp;In my free time, I enjoy playing around with Python, JavaScript, and more recently, Rust.
+* ✍️ &nbsp;In my free time, I enjoy playing around with Python, JavaScript, and more recently, React Native.
 * 💬 &nbsp;Feel free to reach out to me to say hi, or just for some discussion.
-* ✉️ &nbsp;You can shoot me an email at finn.lancaster@finnsoftware.net! I'll try to respond as soon as I can.
-* 📄 &nbsp;Please have a look at my [Résumé](https://www.finnsoftware.net) for more details about me. I'm open to feedback and suggestions!
+* ✉️ &nbsp;You can shoot me an email at flancast90@gmail.com! I'll try to respond as soon as I can.
 
 ## 🛠 &nbsp;Tech Stack
 
