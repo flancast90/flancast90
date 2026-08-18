@@ -4,7 +4,7 @@ Some things about me:
 
 * Currently starting a new venture, follow along! [Capveon (YC F26)](https://capveon.ai)
 * Strong opinions, loosely held
-* Previously founded two businesses in the sports betting space
+* Former SMTS at Harper (YC W25), Harper Mafia! Ex-founder 2x in sports betting space
 * Left institutional education after ~2.5 years at the University of Florida
 * Deeply skeptical of education systems that reward conformity over excellence
 * In high school, joined Publix, working on applied ML for search personalization
