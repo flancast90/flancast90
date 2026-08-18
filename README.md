@@ -2,7 +2,7 @@
 
 Some things about me:
 
-* Work at @Capveon
+* Work at [Capveon (YC F26)](https://capveon.ai)
 * Strong opinions, loosely held
 * Previously founded two businesses in the sports betting space
 * Left institutional education after ~2.5 years at the University of Florida
