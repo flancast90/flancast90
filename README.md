@@ -2,7 +2,7 @@
 
 Some things about me:
 
-* Work at @Tatch-AI
+* Work at @Capveon
 * Strong opinions, loosely held
 * Previously founded two businesses in the sports betting space
 * Left institutional education after ~2.5 years at the University of Florida
